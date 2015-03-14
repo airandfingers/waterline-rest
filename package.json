@@ -16,7 +16,9 @@
   "author": "airandfingers",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "dependencies": {},
+  "dependencies": {
+    "superagent": "^1.1.0",
+  },
   "devDependencies": {
     "waterline-adapter-tests": "~0.10.0",
     "mocha": "*",

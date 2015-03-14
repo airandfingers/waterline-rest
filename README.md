@@ -1,6 +1,6 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
-waterline-rest
+# waterline-rest
 
 Provides easy access to REST APIs for Waterline models.
 
